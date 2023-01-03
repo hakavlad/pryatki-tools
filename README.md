@@ -1,10 +1,12 @@
 # pryatki-tools
 
+### hider
+
 Hide files in other files and devices.
 
-Just run the hider and answer the questions.
+Just run `hider` and answer the questions.
 
-Hide the file:
+Hide a file in another file:
 ```
 $ ./hider
 Select mode:
@@ -31,7 +33,7 @@ SHA256: c3d8ad94410501dd0de8cd53097f53905016a712e186b4791d7e1e9ae287f766
 OK
 ```
 
-Extract the file:
+Extract file from container:
 ```
 $ ./hider
 Select mode:
